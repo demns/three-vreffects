@@ -1,0 +1,1 @@
+this one is almost directly from https://github.com/mrdoob/three.js/blob/master/examples/js/effects/VREffect.js

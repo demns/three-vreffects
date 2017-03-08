@@ -1,0 +1,19 @@
+{
+  "name": "three-vreffects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vrEffects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demns/three-vreffects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demns/three-vreffects/issues"
+  },
+  "homepage": "https://github.com/demns/three-vreffects#readme"
+}
